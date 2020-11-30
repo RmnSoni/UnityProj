@@ -1,0 +1,4 @@
+1.The background(Sky.png) from Unity 2d kit, all other sprites are created by myself in Procreate.
+2.The Audio clips used are from Unity 2D kit.
+
+Unity2D kit: https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-game-kit-107098
